@@ -7,6 +7,8 @@ Things I learned about Git today:
 	-'git add [directory]' - add file/directory to 'stage'
 	-'git commit' - "takes a picture" of our stage and commits it to history
 	  (can add a message)
+	-'git reset' - unstages changes
+	-'git reset --hard' - unstages changes and removes changes from file
 
 	  in vim:
 	  	-'i' opens insert mode
