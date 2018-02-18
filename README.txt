@@ -11,7 +11,14 @@ Things I learned about Git today:
 	-'git reset --hard' - unstages changes and removes changes from file
 	-'cd' - change directory
 	-'cd ..' - back up one directory
-	-'git clone' - Clone a git directory
+	-'git diff [commit id]' - shows difference between two commits 
+	 (can work across repositories)
+	-'git remote' - shows nickname of current repository
+	-'git remote -v' - see  
+	-'git clone' - Clone a git repository
+	-'git fetch [remote]' - compares clone branch to original
+	-'git merge [remote]/[branch] - updates clone to original
+	-'git pull [remote]/[branch]' - combines git fetch and git merge
 
 	  in vim:
 	  	-'i' opens insert mode
