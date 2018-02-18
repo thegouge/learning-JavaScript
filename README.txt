@@ -9,6 +9,9 @@ Things I learned about Git today:
 	  (can add a message)
 	-'git reset' - unstages changes
 	-'git reset --hard' - unstages changes and removes changes from file
+	-'cd' - change directory
+	-'cd ..' - back up one directory
+	-'git clone' - Clone a git directory
 
 	  in vim:
 	  	-'i' opens insert mode
