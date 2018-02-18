@@ -14,7 +14,7 @@ Things I learned about Git today:
 	-'git diff [commit id]' - shows difference between two commits 
 	 (can work across repositories)
 	-'git remote' - shows nickname of current repository
-	-'git remote -v' - see  
+	-'-v' - list out in detail 
 	-'git clone' - Clone a git repository
 	-'git fetch [remote]' - compares clone branch to original
 	-'git merge [remote]/[branch] - updates clone to original
