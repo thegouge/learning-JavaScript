@@ -30,4 +30,4 @@ Things I learned about Git today:
 
 I may need to re-type all of this when I fix the directory to where I want this to be XD
 
-fuq my lyfe
+Nevermind, it's all good! Yay!
